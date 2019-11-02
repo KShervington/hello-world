@@ -1,0 +1,7 @@
+lucky=2
+top=1
+forward=1
+happy=1
+go=2
+back=1
+share=3
